@@ -2,5 +2,4 @@
 
 # Dependies:
 
-vk_api, selenium
-installed chromedriver or another driver for selenium(edit code for your browser).
+# 'vk_api', 'selenium' and installed chromedriver or another driver for selenium(edit code for your browser).
